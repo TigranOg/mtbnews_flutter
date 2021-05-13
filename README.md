@@ -1,4 +1,5 @@
-MTBNews - aggregator of MTB news from best news sources
+MTBNews - aggregator of MTB news from best news sources.
+
 The app is in development.
 
 <p align="center">
