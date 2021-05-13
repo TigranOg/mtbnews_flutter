@@ -1,5 +1,5 @@
 MTBNews - aggregator of MTB news from best news sources
 
 <p align="center">
-    <img src="presenter.gif" alt="Gif"  />
+    <img width="300px" src="presenter.gif" alt="Gif"  />
 </p>
